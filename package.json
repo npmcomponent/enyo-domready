@@ -1,0 +1,7 @@
+{
+  "name": "enyo-domready",
+  "description": "A domready component.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {}
+}
